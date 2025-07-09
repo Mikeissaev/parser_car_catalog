@@ -1,0 +1,9 @@
+2025-07-09 06:48:18,724 - toyota_parser - INFO - Starting Toyota models scraping process
+2025-07-09 06:48:19,926 - toyota_parser - ERROR - An error occurred: WebDriver.__init__() got an unexpected keyword argument 'seleniumwire_options'
+2025-07-09 06:48:19,928 - toyota_parser - WARNING - Error while closing driver: cannot access local variable 'driver' where it is not associated with a value
+2025-07-09 06:50:58,951 - toyota_parser - INFO - Starting Toyota models scraping process
+2025-07-09 06:51:00,100 - toyota_parser - ERROR - An error occurred: No module named 'blinker._saferef'
+2025-07-09 06:51:00,101 - toyota_parser - WARNING - Error while closing driver: cannot access local variable 'driver' where it is not associated with a value
+2025-07-09 06:52:26,446 - toyota_parser - INFO - Starting Toyota models scraping process
+2025-07-09 06:52:26,835 - toyota_parser - ERROR - An error occurred: No module named 'blinker._saferef'
+2025-07-09 06:52:26,838 - toyota_parser - WARNING - Error while closing driver: cannot access local variable 'driver' where it is not associated with a value
