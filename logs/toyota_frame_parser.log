@@ -1,0 +1,129 @@
+2025-07-10 19:24:08,038 - toyota_frame_parser - INFO - ============================================================
+2025-07-10 19:24:08,040 - toyota_frame_parser - INFO - Запуск парсера кузовов Toyota
+2025-07-10 19:24:08,042 - toyota_frame_parser - INFO - Время начала: 2025-07-10 19:24:08
+2025-07-10 19:24:08,043 - toyota_frame_parser - INFO - ============================================================
+2025-07-10 19:24:08,045 - toyota_frame_parser - INFO - Загрузка данных моделей из toyota_jdm_models.json
+2025-07-10 19:24:08,047 - toyota_frame_parser - INFO - Всего моделей в файле: 135
+2025-07-10 19:24:08,052 - toyota_frame_parser - INFO - Будет обработано моделей: 135 (с 0 по 134)
+2025-07-10 19:24:08,054 - toyota_frame_parser - INFO - Инициализация Chrome WebDriver
+2025-07-10 19:24:15,593 - toyota_frame_parser - INFO - WebDriver успешно инициализирован
+2025-07-10 19:24:15,595 - toyota_frame_parser - INFO - [1/135] Обработка модели: 86
+2025-07-10 19:24:15,596 - toyota_frame_parser - INFO - Парсинг кузовов для модели 86 по URL: https://toyota.epc-data.com/86/
+2025-07-10 19:24:23,359 - toyota_frame_parser - INFO - Найдено 1 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:24:23,459 - toyota_frame_parser - INFO - Успешно извлечено 1 кузовов для модели 86
+2025-07-10 19:24:23,461 - toyota_frame_parser - INFO - Модель 86: найдено 1 кузовов
+2025-07-10 19:24:26,462 - toyota_frame_parser - INFO - [2/135] Обработка модели: Allex
+2025-07-10 19:24:26,463 - toyota_frame_parser - INFO - Парсинг кузовов для модели Allex по URL: https://toyota.epc-data.com/allex/
+2025-07-10 19:24:30,171 - toyota_frame_parser - INFO - Найдено 5 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:24:30,424 - toyota_frame_parser - INFO - Успешно извлечено 5 кузовов для модели Allex
+2025-07-10 19:24:30,426 - toyota_frame_parser - INFO - Модель Allex: найдено 5 кузовов
+2025-07-10 19:24:33,428 - toyota_frame_parser - INFO - [3/135] Обработка модели: Allion
+2025-07-10 19:24:33,429 - toyota_frame_parser - INFO - Парсинг кузовов для модели Allion по URL: https://toyota.epc-data.com/allion/
+2025-07-10 19:24:36,850 - toyota_frame_parser - INFO - Найдено 8 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:24:37,232 - toyota_frame_parser - INFO - Успешно извлечено 8 кузовов для модели Allion
+2025-07-10 19:24:37,233 - toyota_frame_parser - INFO - Модель Allion: найдено 8 кузовов
+2025-07-10 19:24:40,236 - toyota_frame_parser - INFO - [4/135] Обработка модели: Alphard
+2025-07-10 19:24:40,237 - toyota_frame_parser - INFO - Парсинг кузовов для модели Alphard по URL: https://toyota.epc-data.com/alphard/
+2025-07-10 19:25:23,699 - toyota_frame_parser - WARNING - Кузова не найдены для модели Alphard
+2025-07-10 19:25:23,701 - toyota_frame_parser - INFO - Модель Alphard: найдено 0 кузовов
+2025-07-10 19:25:26,704 - toyota_frame_parser - INFO - [5/135] Обработка модели: Altezza
+2025-07-10 19:25:26,705 - toyota_frame_parser - INFO - Парсинг кузовов для модели Altezza по URL: https://toyota.epc-data.com/altezza/
+2025-07-10 19:25:30,109 - toyota_frame_parser - INFO - Найдено 6 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:25:30,370 - toyota_frame_parser - INFO - Успешно извлечено 6 кузовов для модели Altezza
+2025-07-10 19:25:30,371 - toyota_frame_parser - INFO - Модель Altezza: найдено 6 кузовов
+2025-07-10 19:25:33,373 - toyota_frame_parser - INFO - [6/135] Обработка модели: Aqua
+2025-07-10 19:25:33,375 - toyota_frame_parser - INFO - Парсинг кузовов для модели Aqua по URL: https://toyota.epc-data.com/aqua/
+2025-07-10 19:25:36,751 - toyota_frame_parser - INFO - Найдено 1 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:25:36,799 - toyota_frame_parser - INFO - Успешно извлечено 1 кузовов для модели Aqua
+2025-07-10 19:25:36,800 - toyota_frame_parser - INFO - Модель Aqua: найдено 1 кузовов
+2025-07-10 19:25:39,802 - toyota_frame_parser - INFO - [7/135] Обработка модели: Aristo
+2025-07-10 19:25:39,805 - toyota_frame_parser - INFO - Парсинг кузовов для модели Aristo по URL: https://toyota.epc-data.com/aristo/
+2025-07-10 19:25:43,294 - toyota_frame_parser - INFO - Найдено 4 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:25:43,480 - toyota_frame_parser - INFO - Успешно извлечено 4 кузовов для модели Aristo
+2025-07-10 19:25:43,481 - toyota_frame_parser - INFO - Модель Aristo: найдено 4 кузовов
+2025-07-10 19:25:46,484 - toyota_frame_parser - INFO - [8/135] Обработка модели: Auris
+2025-07-10 19:25:46,485 - toyota_frame_parser - INFO - Парсинг кузовов для модели Auris по URL: https://toyota.epc-data.com/auris/
+2025-07-10 19:26:30,029 - toyota_frame_parser - WARNING - Кузова не найдены для модели Auris
+2025-07-10 19:26:30,031 - toyota_frame_parser - INFO - Модель Auris: найдено 0 кузовов
+2025-07-10 19:26:33,033 - toyota_frame_parser - INFO - [9/135] Обработка модели: Avalon
+2025-07-10 19:26:33,034 - toyota_frame_parser - INFO - Парсинг кузовов для модели Avalon по URL: https://toyota.epc-data.com/avalon/
+2025-07-10 19:26:36,435 - toyota_frame_parser - INFO - Найдено 1 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:26:36,487 - toyota_frame_parser - INFO - Успешно извлечено 1 кузовов для модели Avalon
+2025-07-10 19:26:36,489 - toyota_frame_parser - INFO - Модель Avalon: найдено 1 кузовов
+2025-07-10 19:26:39,493 - toyota_frame_parser - INFO - [10/135] Обработка модели: Avensis
+2025-07-10 19:26:39,494 - toyota_frame_parser - INFO - Парсинг кузовов для модели Avensis по URL: https://toyota.epc-data.com/avensis/
+2025-07-10 19:26:42,978 - toyota_frame_parser - INFO - Найдено 7 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:26:43,475 - toyota_frame_parser - INFO - Успешно извлечено 7 кузовов для модели Avensis
+2025-07-10 19:26:43,477 - toyota_frame_parser - INFO - Модель Avensis: найдено 7 кузовов
+2025-07-10 19:26:46,480 - toyota_frame_parser - INFO - [11/135] Обработка модели: bB
+2025-07-10 19:26:46,481 - toyota_frame_parser - INFO - Парсинг кузовов для модели bB по URL: https://toyota.epc-data.com/bb/
+2025-07-10 19:26:47,826 - toyota_frame_parser - INFO - Закрытие WebDriver
+2025-07-10 19:26:53,885 - toyota_frame_parser - INFO - WebDriver успешно закрыт
+2025-07-10 19:35:09,872 - toyota_frame_parser - INFO - ============================================================
+2025-07-10 19:35:09,875 - toyota_frame_parser - INFO - Запуск парсера кузовов Toyota
+2025-07-10 19:35:09,877 - toyota_frame_parser - INFO - Время начала: 2025-07-10 19:35:09
+2025-07-10 19:35:09,878 - toyota_frame_parser - INFO - ============================================================
+2025-07-10 19:35:09,880 - toyota_frame_parser - INFO - Загрузка данных моделей из toyota_jdm_models.json
+2025-07-10 19:35:09,883 - toyota_frame_parser - INFO - Всего моделей в файле: 135
+2025-07-10 19:35:09,885 - toyota_frame_parser - INFO - Будет обработано моделей: 135 (с 0 по 134)
+2025-07-10 19:35:09,886 - toyota_frame_parser - INFO - Инициализация Chrome WebDriver
+2025-07-10 19:35:16,505 - toyota_frame_parser - INFO - WebDriver успешно инициализирован
+2025-07-10 19:35:16,507 - toyota_frame_parser - INFO - [1/135] Обработка модели: 86
+2025-07-10 19:35:16,512 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели 86
+2025-07-10 19:36:40,410 - toyota_frame_parser - WARNING - Попытка 1: Кузова не найдены для модели 86
+2025-07-10 19:36:40,412 - toyota_frame_parser - INFO - Пауза 5.3 сек. перед следующей попыткой
+2025-07-10 19:36:47,703 - toyota_frame_parser - INFO - Попытка 2/5 парсинга модели 86
+2025-07-10 19:38:17,277 - toyota_frame_parser - WARNING - Попытка 2: Кузова не найдены для модели 86
+2025-07-10 19:38:17,278 - toyota_frame_parser - INFO - Пауза 3.8 сек. перед следующей попыткой
+2025-07-10 19:38:25,026 - toyota_frame_parser - INFO - Попытка 3/5 парсинга модели 86
+2025-07-10 19:38:38,693 - toyota_frame_parser - INFO - Найдено 1 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:38:38,792 - toyota_frame_parser - INFO - Успешно извлечено 1 кузовов для модели 86
+2025-07-10 19:38:38,793 - toyota_frame_parser - INFO - ✅ Модель 86: найдено 1 кузовов
+2025-07-10 19:38:41,795 - toyota_frame_parser - INFO - [2/135] Обработка модели: Allex
+2025-07-10 19:38:41,797 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Allex
+2025-07-10 19:38:45,264 - toyota_frame_parser - INFO - Найдено 5 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:38:45,485 - toyota_frame_parser - INFO - Успешно извлечено 5 кузовов для модели Allex
+2025-07-10 19:38:45,489 - toyota_frame_parser - INFO - ✅ Модель Allex: найдено 5 кузовов
+2025-07-10 19:38:48,491 - toyota_frame_parser - INFO - [3/135] Обработка модели: Allion
+2025-07-10 19:38:48,492 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Allion
+2025-07-10 19:38:51,916 - toyota_frame_parser - INFO - Найдено 8 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:38:52,261 - toyota_frame_parser - INFO - Успешно извлечено 8 кузовов для модели Allion
+2025-07-10 19:38:52,262 - toyota_frame_parser - INFO - ✅ Модель Allion: найдено 8 кузовов
+2025-07-10 19:38:55,265 - toyota_frame_parser - INFO - [4/135] Обработка модели: Alphard
+2025-07-10 19:38:55,266 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Alphard
+2025-07-10 19:40:18,785 - toyota_frame_parser - WARNING - Попытка 1: Кузова не найдены для модели Alphard
+2025-07-10 19:40:18,787 - toyota_frame_parser - INFO - Пауза 6.3 сек. перед следующей попыткой
+2025-07-10 19:40:28,441 - toyota_frame_parser - INFO - Попытка 2/5 парсинга модели Alphard
+2025-07-10 19:40:38,062 - toyota_frame_parser - INFO - Найдено 10 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:40:38,574 - toyota_frame_parser - INFO - Успешно извлечено 10 кузовов для модели Alphard
+2025-07-10 19:40:38,576 - toyota_frame_parser - INFO - ✅ Модель Alphard: найдено 10 кузовов
+2025-07-10 19:40:41,578 - toyota_frame_parser - INFO - [5/135] Обработка модели: Altezza
+2025-07-10 19:40:41,579 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Altezza
+2025-07-10 19:40:44,963 - toyota_frame_parser - INFO - Найдено 6 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:40:45,262 - toyota_frame_parser - INFO - Успешно извлечено 6 кузовов для модели Altezza
+2025-07-10 19:40:45,264 - toyota_frame_parser - INFO - ✅ Модель Altezza: найдено 6 кузовов
+2025-07-10 19:40:48,266 - toyota_frame_parser - INFO - [6/135] Обработка модели: Aqua
+2025-07-10 19:40:48,267 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Aqua
+2025-07-10 19:40:51,612 - toyota_frame_parser - INFO - Найдено 1 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:40:51,666 - toyota_frame_parser - INFO - Успешно извлечено 1 кузовов для модели Aqua
+2025-07-10 19:40:51,669 - toyota_frame_parser - INFO - ✅ Модель Aqua: найдено 1 кузовов
+2025-07-10 19:40:54,671 - toyota_frame_parser - INFO - [7/135] Обработка модели: Aristo
+2025-07-10 19:40:54,672 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Aristo
+2025-07-10 19:42:18,369 - toyota_frame_parser - WARNING - Попытка 1: Кузова не найдены для модели Aristo
+2025-07-10 19:42:18,371 - toyota_frame_parser - INFO - Пауза 5.6 сек. перед следующей попыткой
+2025-07-10 19:42:26,269 - toyota_frame_parser - INFO - Попытка 2/5 парсинга модели Aristo
+2025-07-10 19:42:35,697 - toyota_frame_parser - INFO - Найдено 4 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:42:35,930 - toyota_frame_parser - INFO - Успешно извлечено 4 кузовов для модели Aristo
+2025-07-10 19:42:35,932 - toyota_frame_parser - INFO - ✅ Модель Aristo: найдено 4 кузовов
+2025-07-10 19:42:38,933 - toyota_frame_parser - INFO - [8/135] Обработка модели: Auris
+2025-07-10 19:42:38,934 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Auris
+2025-07-10 19:42:42,282 - toyota_frame_parser - INFO - Найдено 7 кузовов с селектором: ul.category2 h4 a
+2025-07-10 19:42:42,606 - toyota_frame_parser - INFO - Успешно извлечено 7 кузовов для модели Auris
+2025-07-10 19:42:42,609 - toyota_frame_parser - INFO - ✅ Модель Auris: найдено 7 кузовов
+2025-07-10 19:42:45,612 - toyota_frame_parser - INFO - [9/135] Обработка модели: Avalon
+2025-07-10 19:42:45,614 - toyota_frame_parser - INFO - Попытка 1/5 парсинга модели Avalon
+2025-07-10 19:44:09,269 - toyota_frame_parser - WARNING - Попытка 1: Кузова не найдены для модели Avalon
+2025-07-10 19:44:09,270 - toyota_frame_parser - INFO - Пауза 6.7 сек. перед следующей попыткой
+2025-07-10 19:44:20,227 - toyota_frame_parser - INFO - Попытка 2/5 парсинга модели Avalon
+2025-07-10 19:45:16,924 - toyota_frame_parser - INFO - Закрытие WebDriver
+2025-07-10 19:45:24,953 - toyota_frame_parser - INFO - WebDriver успешно закрыт
